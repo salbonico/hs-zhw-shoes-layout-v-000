@@ -45,13 +45,13 @@
 }
 
 .col-left{
-  float: left;
+  float:left;
 }
 
 .col-mid{
-  float: both;
+  float:both;
 }
 
 .col-right{
-  float: right;
+  float:right;
 }

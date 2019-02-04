@@ -43,3 +43,7 @@
 #chart{
   float:right;
 }
+
+.col-left{
+  float: left;
+}

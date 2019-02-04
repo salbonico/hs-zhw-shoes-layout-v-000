@@ -46,13 +46,13 @@
 
 .col-left{
   float:left;
-  margin-right: 12px;
+
 }
 
-.col-mid{
-  float:both;
+.marginright{
+    margin-right: 12px;
 }
 
-.col-right{
-  float:right;
+.margintop{
+  margin-top:10px
 }

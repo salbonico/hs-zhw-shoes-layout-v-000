@@ -47,3 +47,11 @@
 .col-left{
   float: left;
 }
+
+.col-mid{
+  float: both;
+}
+
+.col-right{
+  float: right;
+}
